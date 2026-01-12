@@ -1,122 +1,175 @@
 <div align="center">
 
-# PIWP: Personal Information Warfare Protocol
-### 个人信息战协议 | 개인 정보전 프로토콜 | 個人情報戦プロトコル
+PIWF: Personal Information Warfare Framework
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Status](https://img.shields.io/badge/Status-Strategic_Framework-red.svg)]()
-[![Focus](https://img.shields.io/badge/Focus-Cognitive_Security-black.svg)]()
+个人信息战框架 | 개인 정보전 프레임워크 | 個人情報戦フレームワーク
 
-| [English](#-deploy-en) | [简体中文](#-部署中文版) | [한국어](#-프로토콜-배포) | [日本語](#-プロトコル展開) |
-| :---: | :---: | :---: | :---: |
+<!-- 统一导航锚点 -->
+
+English
+
+简体中文
+
+한국어
+
+日本語
 
 </div>
 
----
+🛠️ Deployment / 部署
 
-## 🛠️ Protocol Deployment / 协议部署
+<!-- ============================================================
+ENGLISH VERSION (Default Open)
+============================================================ -->
 
-<div id="-deploy-en"></div>
+<div id="-piwf-en"></div>
 <details open>
-<summary><b>🇺🇸 [EN] DEPLOY STRATEGIC FRAMEWORK</b></summary>
-<br>
+<summary><b>🇺🇸 [EN] Personal Information Warfare Framework</b></summary>
 
-### 🌎 Abstract
-**Personal Information Warfare Protocol (PIWP)** is a comprehensive strategic and technical framework designed to redefine "Individual Self-Defense" in the digital age. In an algorithm-driven social landscape, individual cognitive spaces are facing unprecedented asymmetric threats. By leveraging dimensional transcendence through technology, PIWP aims to neutralize the scale advantage of collective harassment and safeguard individual Digital Sovereignty.
 
-### 💡 The PIWP Philosophy
-In the era of algorithmic warfare, the individual's cognitive space is the primary target. PIWP shifts the paradigm from **Passive Endurance** to **Active Neutralization**.
 
-#### 🛡️ Strategic Pillars
-1. **Cognitive Decoupling**: Breaking the emotional feedback loop initiated by external aggression. Transforming hostility into objective data points.
-2. **Narrative Collapse**: Dismantling the "Human Sea" tactic. Identifying the singular logical flaw replicated across thousands of voices to dissolve the illusion of consensus.
-3. **Dimensional Counter-Strike**: Utilizing high-order logic to deconstruct the aggressor’s narrative, rendering the attack invalid in the eyes of the public.
-4. **Sovereignty Solidification**: Establishing a permanent digital footprint of the encounter as a form of deterministic deterrence.
 
-> **"Victory is not winning the argument; it is rendering the attack irrelevant."**
+🌎 Abstract
 
-### ⚠️ Disclaimer
-This protocol is a conceptual framework for digital self-defense and cognitive security research. The author does not condone or facilitate proactive aggression. All legal responsibilities reside with the operator.
+Personal Information Warfare Framework (PIWF) is a theoretical and strategic architecture designed to redefine "Individual Self-Defense" in the digital age. In an algorithm-driven social landscape, individual cognitive spaces are facing unprecedented asymmetric threats from collective digital aggression. PIWF aims to bridge this power gap through tactical neutralization, allowing individuals to reclaim their Digital Sovereignty.
 
-<p align="right"><a href="#piwp-personal-information-warfare-protocol">↑ Back to Console</a></p>
+💡 The Philosophy
+
+In the era of algorithmic siege, the individual's mind is the primary battlefield. PIWF shifts the defensive paradigm from Passive Endurance to Active Deconstruction. It asserts that digital harassment is not a storm to be weathered, but a structured signal to be neutralized.
+
+🛡️ Strategic Pillars
+
+Cognitive Decoupling: Severing the emotional feedback loop intended by external aggression. By viewing hostility as objective data rather than personal attack, the individual achieves psychological immunity.
+
+Narrative Collapse: Dismantling the "Human Sea" tactic. PIWF focuses on identifying the singular logical core hidden behind thousands of repetitive voices, effectively dissolving the illusion of mass consensus.
+
+Dimensional Counter-Strike: Applying high-order logic to expose the internal contradictions of the aggressor's narrative. This renders the attack not only invalid but logically absurd in the public sphere.
+
+Sovereignty Solidification: Establishing an immutable record of the information encounter. It transforms a transient digital conflict into a permanent testament to the individual’s defensive resolve.
+
+"Victory is not winning the argument; it is rendering the attack irrelevant."
+
+⚠️ Disclaimer
+
+This framework is a conceptual architecture for digital self-defense and cognitive security research. The author does not condone or facilitate proactive aggression. All ethical and legal responsibilities reside with the operator.
+
+<p align="right"><a href="#piwf-personal-information-warfare-framework">↑ Back to Console</a></p>
 </details>
 
-<div id="-部署中文版"></div>
+<!-- ============================================================
+CHINESE VERSION
+============================================================ -->
+
+<div id="-piwf-cn"></div>
 <details>
-<summary><b>🇨🇳 [CN] 部署个人信息战战略框架</b></summary>
-<br>
+<summary><b>🇨🇳 [CN] 个人信息战框架</b></summary>
 
-### 🌎 摘要
-**个人信息战协议 (PIWP)** 是一套重新定义数字时代“个体自卫权”的战略框架。它主张通过技术的维度跃迁，抹平群体暴力带来的规模劣势，守护个体的数字主权。在算法驱动的社交环境中，个体的认知空间正面临前所未有的非对称威胁。
 
-### 💡 PIWP 核心哲学
-在算法围猎的时代，个体的认知空间是信息战的主战场。PIWP 将防御范式从**“被动忍受”**转变为**“主动中和”**。
 
-#### 🛡️ 战略支柱
-1. **认知脱钩 (Cognitive Decoupling)**：切断外部攻击引发的情绪反馈回路。将恶意谩骂转化为冰冷的、可供观察的逻辑样本。
-2. **叙事坍缩 (Narrative Collapse)**：瓦解“人海战术”。识别并提取成千上万条攻击中重复的单一逻辑谬误，从而消解对方试图制造的“群体共识”假象。
-3. **维度打击 (Dimensional Strike)**：利用高阶逻辑框架对攻击者的叙事进行底层拆解，使攻击行为在公共视阈下失效并荒谬化。
-4. **主权固化 (Sovereignty Solidification)**：为每一次信息冲突建立确定的数字存档，形成一种基于“不可抹除性”的长期震慑。
 
-> **“胜利不在于辩论的胜负，而在于让攻击本身失去意义。”**
+🌎 摘要
 
-### ⚠️ 免责声明
-本协议仅作为数字自卫与认知安全研究的构想框架。作者不赞同或支持任何主动攻击行为。一切法律责任由操作者自行承担。
+个人信息战框架 (PIWF) 是一套重新定义数字时代“个体自卫权”的战略性理论架构。在算法驱动的社交环境中，个体的认知空间正面临来自集体性网络攻击的前所未有的非对称威胁。PIWF 旨在通过战术性中和技术抹平这种权力差异，赋予个体夺回其数字主权的能力。
 
-<p align="right"><a href="#piwp-personal-information-warfare-protocol">↑ 返回控制台</a></p>
+💡 核心哲学
+
+在算法围猎的时代，个体的认知空间是信息战的核心战场。PIWF 将防御范式从**“被动忍受”转变为“主动解构”**。它主张：数字霸凌并非一场需要硬扛的暴雨，而是一种可以被中和的、具备结构的信号。
+
+🛡️ 战略支柱
+
+认知脱钩 (Cognitive Decoupling)：切断由外部攻击引发的情绪反馈回路。通过将恶意视为客观数据而非个人攻击，个体得以建立心理层面的绝对免疫。
+
+叙事坍缩 (Narrative Collapse)：瓦解“人海战术”。PIWF 专注于识别成千上万个重复声音背后隐藏的单一逻辑核心，从而有效消解对方试图制造的“群体共识”假象。
+
+维度打击 (Dimensional Strike)：利用高阶逻辑框架暴露攻击者叙事的内部矛盾。这不仅能使攻击失效，还能使其在公共视阈下呈现出逻辑上的荒谬性。
+
+主权固化 (Sovereignty Solidification)：为信息冲突建立不可篡改的记录。它将转瞬即逝的数字冲突转化为个体防御意志的永久证明，形成确定性震慑。
+
+“胜利不在于辩论的胜负，而在于让攻击本身失去意义。”
+
+⚠️ 免责声明
+
+本框架仅作为数字自卫与认知安全研究的构想架构。作者不赞同或支持任何形式的主动攻击行为。一切伦理与法律责任由操作者自行承担。
+
+<p align="right"><a href="#piwf-personal-information-warfare-framework">↑ 返回控制台</a></p>
 </details>
 
-<div id="-프로토콜-배포"></div>
+<!-- ============================================================
+KOREAN VERSION
+============================================================ -->
+
+<div id="-piwf-kr"></div>
 <details>
-<summary><b>🇰🇷 [KR] 개인 정보전 전략 프레임워크 배포</b></summary>
-<br>
+<summary><b>🇰🇷 [KR] 개인 정보전 프레임워크</b></summary>
 
-### 🌎 요약
-**개인 정보전 프로토콜 (PIWP)**은 디지털 시대의 '개인 자위권'을 재정의하기 위한 종합적인 전략 및 기술 프레임워크입니다. 알고리즘에 의해 가속화되는 현대 소셜 환경에서 개인의 인지 공간은 전례 없는 비대칭적 위협에 직면해 있습니다. 기술을 통한 차원 높은 대응을 통해 집단 폭력의 규모 우위를 무력화하고 개인의 디지털 주권을 수호하는 것을 목표로 합니다.
 
-### 💡 PIWP 핵심 철학
-알고리즘 사냥의 시대, 개인의 인지 공간은 정보전의 주된 전장입니다. PIWP는 방어 패러다임을 **'수동적 인내'**에서 **'능동적 중화'**로 전환합니다.
 
-#### 🛡️ 전략적 지주
-1. **인지적 탈동조화**: 외부 공격에 의한 감정적 피드백 루프를 차단하고 악의적인 비난을 객관적인 논리 샘플로 변환합니다.
-2. **서사적 붕괴**: '인해전술'의 무력화. 수만 개의 목소리 속에 복제된 단일 논리적 오류를 식별하여 집단적 합의라는 환상을 제거합니다.
-3. **차원적 반격**: 고차원적 논리를 사용하여 공격자의 서사를 해체함으로써 대중의 시선에서 공격을 무효화합니다.
-4. **주권 고착화**: 정보 충돌의 영구적인 디지털 기록을 구축하여 결정론적 억제력을 형성합니다.
 
-> **"승리는 논쟁에서 이기는 것이 아니라, 공격을 무의미하게 만드는 것입니다."**
+🌎 요약
 
-### ⚠️ 면책 조항
-이 프로토콜은 디지털 자위 및 인지 보안 연구를 위한 개념적 프레임워크입니다. 저자는 어떠한 형태의 능동적인 공격 행위도 옹호하거나 조장하지 않습니다. 모든 법적 책임은 사용자에게 있습니다.
+**개인 정보전 프레임워크 (PIWF)**는 디지털 시대의 '개인 자위권'을 재정의하기 위한 종합적인 전략 및 이론적 구조입니다. 알고리즘에 의해 가속화되는 현대 소셜 환경에서 개인의 인지 공간은 집단적 사이버 공격으로부터 전례 없는 비대칭적 위협에 직면해 있습니다. PIWF는 전술적 중화를 통해 이러한 권력 격차를 해소하고 개인이 디지털 주권을 되찾을 수 있도록 돕는 것을 목표로 합니다.
 
-<p align="right"><a href="#piwp-personal-information-warfare-protocol">↑ 콘솔로 돌아가기</a></p>
+💡 핵심 철학
+
+알고리즘 사냥의 시대, 개인의 인지 공간은 정보전의 주된 전장입니다. PIWF는 방어 패러다임을 **'수동적 인내'**에서 **'능동적 해체'**로 전환합니다. 디지털 괴롭힘은 견뎌내야 할 폭풍이 아니라, 중화될 수 있는 구조화된 신호일 뿐입니다.
+
+🛡️ 전략적 지주
+
+인지적 탈동조화: 외부 공격에 의해 발생하는 감정적 피드백 루프를 차단합니다. 적대감을 개인적인 공격이 아닌 객관적인 데이터로 간주함으로써 심리적 면역을 달성합니다.
+
+서사적 붕괴: '인해전술'의 무력화. 수만 개의 목소리 속에 복제된 단일 논리적 핵심을 식별하여 집단적 합의라는 환상을 제거합니다.
+
+차원적 반격: 고차원적 논리를 사용하여 공격자 서사의 내부 모순을 폭로합니다. 이는 공격을 무효화할 뿐만 아니라 공적 영역에서 논리적 황당함을 드러내게 합니다.
+
+주권 고착화: 정보 충돌에 대한 불변의 기록을 구축합니다. 이는 일시적인 디지털 갈등을 개인의 방어 의지에 대한 영구적인 증거로 전환합니다.
+
+"승리는 논쟁에서 이기는 것이 아니라, 공격을 무의미하게 만드는 것입니다."
+
+⚠️ 면책 조항
+
+이 프레임워크는 디지털 자위 및 인지 보안 연구를 위한 개념적 구조입니다. 저자는 어떠한 형태의 능동적인 공격 행위도 옹호하거나 조장하지 않습니다. 모든 법적 책임은 사용자에게 있습니다.
+
+<p align="right"><a href="#piwf-personal-information-warfare-framework">↑ 콘솔로 돌아가기</a></p>
 </details>
 
-<div id="-プロトコル展開"></div>
+<!-- ============================================================
+JAPANESE VERSION
+============================================================ -->
+
+<div id="-piwp-jp"></div>
 <details>
-<summary><b>🇯🇵 [JP] 個人情報戦戦略フレームワーク展開</b></summary>
-<br>
+<summary><b>🇯🇵 [JP] 個人情報戦フレームワーク</b></summary>
 
-### 🌎 概要
-**個人情報戦プロトコル (PIWP)** は、デジタル時代における「個人自衛権」を再定義するための総合的な戦略および技術フレームワークである。アルゴリズムによって加速する現代のソーシャル環境において、個人の認知空間は前例のない非対称的な脅威に直面している。技術による次元の超越を通じて、集団暴力の規模の優位性を無力化し、個人のデジタル主権を死守することを目的としている。
 
-### 💡 PIWPの哲学
-アルゴリズムによる包囲網の時代、個人の認知空間は情報戦の主戦場である。PIWPは、防御のパラダイムを**「受動的な忍耐」**から**「能動的な中和」**へと転換する。
 
-#### 🛡️ 戦略的支柱
-1. **認知的脱結合**: 外部からの攻撃による感情的なフィードバックループを遮断。悪意ある誹謗中傷を冷徹な論理サンプルへと変換する。
-2. **叙事の崩壊**: 「人海戦術」の無効化。数万の攻撃に共通する単一の論理的欠陥を特定し、集団的合意という幻想を打ち砕く。
-3. **次元的打撃**: 高次の論理フレームワークを用いて攻撃者の叙事を解体し、公共の視点において攻撃を無効化・滑稽化させる。
-4. **主権の固着**: 情報紛争の確定的なデジタルアーカイブを構築し、不可逆的な抑止力を形成する。
 
-> **「勝利とは論争に勝つことではなく、攻撃を無意味にすることである。」**
+🌎 概要
 
-### ⚠️ 免責事項
-本プロトコルは、デジタル自衛および認知安全研究のための概念的なフレームワークです。作者はいかなる形式の能動的な攻撃行為も容認または助長しません。すべての法的責任は利用者に帰属します。
+個人情報戦フレームワーク (PIWF) は、デジタル時代における「個人自衛権」を再定義するための、総合的な戦略および理論的アーキテクチャである。アルゴリズムによって駆動される現代のソーシャル環境において、個人の認知空間は集団的なサイバー攻撃による前例のない非対称的な脅威に直面している。PIWFは戦術的な中和を通じてこの力の格差を埋め、個人が自らのデジタル主権を奪還することを目的としている。
 
-<p align="right"><a href="#piwp-personal-information-warfare-protocol">↑ コンソールに戻る</a></p>
+💡 核心となる哲学
+
+アルゴリズムによる包囲網の時代、個人の認知空間は情報戦の主要な戦場である。PIWFは、防御のパラダイムを**「受動的な忍耐」から「能動的な解体」**へと転換する。デジタルハラスメントは耐え忍ぶべき嵐ではなく、中和可能な構造化された信号であると定義する。
+
+🛡️ 戦略的支柱
+
+認知的脱結合: 外部の攻撃によって引き起こされる感情的なフィードバックループを遮断する。敵意を個人的な攻撃ではなく客観的なデータとして捉えることで、心理的な免疫を確立する。
+
+叙事の崩壊: 「人海戦術」の無効化。数万の反復される声の背後に隠された単一の論理的核を特定し、集団的合意という幻想を霧散させる。
+
+次元的打撃: 高次の論理フレームワークを用いて攻撃者の叙事の内部矛盾を暴く。これにより、攻撃を無効化するだけでなく、公共の場において論理的な滑稽さを浮き彫りにさせる。
+
+主権の固着: 情報紛争の改ざん不可能な記録を構築する。一過性のデジタル紛争を、個人の防御意志の永久的な証明へと変換し、決定論的な抑止力を形成する。
+
+「勝利とは論争に勝つことではなく、攻撃を無意味にすることである。」
+
+⚠️ 免責事項
+
+本フレームワークは、デジタル自衛および認知安全研究のための概念的な構造です。作者はいかなる形式の能動的な攻撃行為も容認または助長しません。すべての法的責任は利用者に帰属します。
+
+<p align="right"><a href="#piwf-personal-information-warfare-framework">↑ コンソールに戻る</a></p>
 </details>
 
----
 <div align="center">
 <b>LOGOS IS THE ULTIMATE ARMOR</b>
 </div>
